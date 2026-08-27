@@ -6,3 +6,9 @@ __pycache__/
 *.pyc
 #Arquivos de ambiente (caso usem futuramente)
 .env
+
+#Teste unitários
+htmlcov/
+.coverage
+relatorio.html
+resultado.xml
